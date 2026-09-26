@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pham+Hoang+Anh+Khoi;.NET+Backend+Developer;AI+%26+Software+Engineering&size=25&duration=3000&pause=600&color=00F2FF&center=true&vCenter=true&multiline=false)](https://git.io/typing-svg)
 
-*Software Engineering Student · FPT University Da Nang · VinUniversity · Former Intern at FPT Software*
+*Software Engineering And AI Engineering Student · FPT University Da Nang · VinUniversity · Former Intern at FPT Software*
 </div>
 
 ---
