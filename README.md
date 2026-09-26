@@ -14,7 +14,7 @@ My priority is cultivating solid technical foundations, clean code practices, an
 
 - 🎓 Studying at **FPT University Da Nang** & **VinUniversity**
 - 💼 Former Intern at **FPT Software**
-- 🎯 Core Focus: Backend Architecture, Web APIs, Web MVC, Artificial Intelligent(ML/DL) for computer vision, AI Agent, AI Product
+- 🎯 Core Focus: Backend Architecture, Web APIs, Web MVC, Artificial Intelligence (ML/DL) for Computer Vision, AI Agent, AI Product
 
 ---
 
@@ -34,11 +34,20 @@ My priority is cultivating solid technical foundations, clean code practices, an
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<!-- Frameworks & Libraries -->
-**Frameworks & Libraries**
+<!-- Web & Backend Development -->
+**Web & Backend Development**
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JSP & Servlet](https://img.shields.io/badge/JSP_%26_Servlet-ED8B00?style=flat-square&logo=apachetomcat&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+<!-- AI, Computer Vision & LLM Tools -->
+**AI, Computer Vision & Agents**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 <!-- Databases & Storage -->
 **Databases**
