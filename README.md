@@ -66,37 +66,37 @@ My priority is cultivating solid technical foundations, clean code practices, an
 <table border="0">
   <tr>
     <td>
-      <a href="[https://github.com/anhkhoi130605/REPO_1](https://github.com/nghuynh5079/AEMS)">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_1&theme=radical&title_color=ff2a85&bg_color=181528" alt="Repo 1" />
+      <a href="https://github.com/nghuynh5079/AEMS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nghuynh5079&repo=AEMS&theme=radical&title_color=ff2a85&bg_color=181528" alt="AEMS" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/anhkhoi130605/REPO_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_2&theme=radical&title_color=a8ff00&bg_color=121f14" alt="Repo 2" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/anhkhoi130605/REPO_3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_3&theme=radical&title_color=ffaa00&bg_color=1a1625" alt="Repo 3" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anhkhoi130605/REPO_4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_4&theme=radical&title_color=00ffcc&bg_color=152028" alt="Repo 4" />
+      <a href="https://github.com/anhkhoi130605/HomeCare">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=HomeCare&theme=radical&title_color=a8ff00&bg_color=121f14" alt="HomeCare" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/anhkhoi130605/REPO_5">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_5&theme=radical&title_color=ff79c6&bg_color=1b192e" alt="Repo 5" />
+      <a href="https://github.com/anhkhoi130605/Faster-R-CNN_VOC-Dataset">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=Faster-R-CNN_VOC-Dataset&theme=radical&title_color=ffaa00&bg_color=1a1625" alt="Faster-R-CNN_VOC-Dataset" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/anhkhoi130605/REPO_6">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_6&theme=radical&title_color=50fa7b&bg_color=142217" alt="Repo 6" />
+      <a href="https://github.com/anhkhoi130605/ChatBot-ReAct-Agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=ChatBot-ReAct-Agent&theme=radical&title_color=00ffcc&bg_color=152028" alt="ChatBot-ReAct-Agent" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/anhkhoi130605/ReAct-Agent-Tool-Calling-Function-Calling">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=ReAct-Agent-Tool-Calling-Function-Calling&theme=radical&title_color=ff79c6&bg_color=1b192e" alt="ReAct-Agent-Tool-Calling-Function-Calling" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anhkhoi130605/Deep-Learning-QuickDraw-By-CNN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=Deep-Learning-QuickDraw-By-CNN&theme=radical&title_color=50fa7b&bg_color=142217" alt="Deep-Learning-QuickDraw-By-CNN" />
       </a>
     </td>
   </tr>
@@ -115,5 +115,5 @@ My priority is cultivating solid technical foundations, clean code practices, an
 ---
 
 <div align="center">
-<sub>Yoroshiku onegashimasu</sub>
+<sub>Yoroshiku Onegashimasu</sub>
 </div>
