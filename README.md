@@ -1,13 +1,20 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pham+Hoang+Anh+Khoi;.NET+Backend+Developer;AI+%26+Software+Engineering&size=25&duration=3000&pause=600&color=00F2FF&center=true&vCenter=true&multiline=false)](https://git.io/typing-svg)
+<!-- Sci-Fi / Deep Space Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35&height=200&section=header&text=Pham%20Hoang%20Anh%20Khoi&fontSize=38&fontAlignY=38&animation=twinkling&desc=.NET%20Backend%20Developer%20%7C%20AI%20Engineering&descAlignY=60&descSize=16&fontColor=00F2FF" width="100%"/>
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 8px;" />
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Transmitting+from+Deep+Space...;Pham+Hoang+Anh+Khoi;.NET+Backend+Developer;AI+%26+Software+Engineering&size=24&duration=3000&pause=600&color=00F2FF&center=true&vCenter=true&multiline=false)](https://git.io/typing-svg)
 
 *Software Engineering And AI Engineering Student · FPT University Da Nang · VinUniversity · Former Intern at FPT Software*
 </div>
 
 ---
 
-### About Me
+### 🛸 About Me
 
 I am a passionate software engineering and AI engineering student with a strong focus on building scalable web backends, system architectures, and practical software solutions.  
 My priority is cultivating solid technical foundations, clean code practices, and applying real-world engineering standards to production systems.
@@ -18,7 +25,7 @@ My priority is cultivating solid technical foundations, clean code practices, an
 
 ---
 
-### Tech Stack
+### 🛰️ Tech Stack
 
 <div align="left">
 
@@ -59,7 +66,7 @@ My priority is cultivating solid technical foundations, clean code practices, an
 
 ---
 
-### Projects
+### 👾 Projects
 
 <div align="center">
 
@@ -67,36 +74,36 @@ My priority is cultivating solid technical foundations, clean code practices, an
   <tr>
     <td width="400" valign="top">
       <a href="https://github.com/nghuynh5079/AEMS">
-        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=nghuynh5079&repo=AEMS&theme=radical&title_color=ff2a85&bg_color=181528&description_lines_count=2" alt="AEMS" />
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=nghuynh5079&repo=AEMS&theme=radical&title_color=bf00ff&bg_color=080914&border_color=bf00ff&icon_color=bf00ff&description_lines_count=2" alt="AEMS" />
       </a>
     </td>
     <td width="400" valign="top">
       <a href="https://github.com/anhkhoi130605/HomeCare">
-        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=HomeCare&theme=radical&title_color=a8ff00&bg_color=121f14&description_lines_count=2&desc=Comprehensive+homecare+and+healthcare+service+management+system." alt="HomeCare" />
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=HomeCare&theme=radical&title_color=39ff14&bg_color=080914&border_color=39ff14&icon_color=39ff14&description_lines_count=2&desc=Comprehensive+homecare+and+healthcare+service+management+system." alt="HomeCare" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="400" valign="top">
       <a href="https://github.com/anhkhoi130605/Faster-R-CNN_VOC-Dataset">
-        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=Faster-R-CNN_VOC-Dataset&theme=radical&title_color=ffaa00&bg_color=1a1625&description_lines_count=2&desc=Faster+R-CNN+object+detection+implementation+on+Pascal+VOC+dataset." alt="Faster-R-CNN_VOC-Dataset" />
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=Faster-R-CNN_VOC-Dataset&theme=radical&title_color=ffe600&bg_color=080914&border_color=ffe600&icon_color=ffe600&description_lines_count=2&desc=Faster+R-CNN+object+detection+implementation+on+Pascal+VOC+dataset." alt="Faster-R-CNN_VOC-Dataset" />
       </a>
     </td>
     <td width="400" valign="top">
       <a href="https://github.com/anhkhoi130605/ChatBot-ReAct-Agent">
-        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=ChatBot-ReAct-Agent&theme=radical&title_color=00ffcc&bg_color=152028&description_lines_count=2&desc=Conversational+AI+chatbot+powered+by+ReAct+agent+architecture." alt="ChatBot-ReAct-Agent" />
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=ChatBot-ReAct-Agent&theme=radical&title_color=00f2ff&bg_color=080914&border_color=00f2ff&icon_color=00f2ff&description_lines_count=2&desc=Conversational+AI+chatbot+powered+by+ReAct+agent+architecture." alt="ChatBot-ReAct-Agent" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="400" valign="top">
       <a href="https://github.com/anhkhoi130605/ReAct-Agent-Tool-Calling-Function-Calling">
-        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=ReAct-Agent-Tool-Calling-Function-Calling&theme=radical&title_color=ff79c6&bg_color=1b192e&description_lines_count=2&desc=ReAct+agent+with+tool+calling+and+dynamic+function+execution." alt="ReAct-Agent-Tool-Calling-Function-Calling" />
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=ReAct-Agent-Tool-Calling-Function-Calling&theme=radical&title_color=ff007f&bg_color=080914&border_color=ff007f&icon_color=ff007f&description_lines_count=2&desc=ReAct+agent+with+tool+calling+and+dynamic+function+execution." alt="ReAct-Agent-Tool-Calling-Function-Calling" />
       </a>
     </td>
     <td width="400" valign="top">
       <a href="https://github.com/anhkhoi130605/Deep-Learning-QuickDraw-By-CNN">
-        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=Deep-Learning-QuickDraw-By-CNN&theme=radical&title_color=50fa7b&bg_color=142217&description_lines_count=2&desc=Convolutional+neural+network+for+sketch+recognition+on+QuickDraw." alt="Deep-Learning-QuickDraw-By-CNN" />
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=Deep-Learning-QuickDraw-By-CNN&theme=radical&title_color=00ffaa&bg_color=080914&border_color=00ffaa&icon_color=00ffaa&description_lines_count=2&desc=Convolutional+neural+network+for+sketch+recognition+on+QuickDraw." alt="Deep-Learning-QuickDraw-By-CNN" />
       </a>
     </td>
   </tr>
@@ -106,7 +113,7 @@ My priority is cultivating solid technical foundations, clean code practices, an
 
 ---
 
-### Contact
+### 🌌 Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kpham6488@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kh%C3%B4i-ph%E1%BA%A1m-b163252a6/)
@@ -115,5 +122,5 @@ My priority is cultivating solid technical foundations, clean code practices, an
 ---
 
 <div align="center">
-<sub>Yoroshiku Onegashimasu</sub>
+<sub>✦ Yoroshiku Onegashimasu ✦</sub>
 </div>
