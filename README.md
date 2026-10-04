@@ -59,6 +59,53 @@ My priority is cultivating solid technical foundations, clean code practices, an
 
 ---
 
+### Projects
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/anhkhoi130605/REPO_1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_1&theme=radical&title_color=ff2a85&bg_color=181528" alt="Repo 1" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anhkhoi130605/REPO_2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_2&theme=radical&title_color=a8ff00&bg_color=121f14" alt="Repo 2" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/anhkhoi130605/REPO_3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_3&theme=radical&title_color=ffaa00&bg_color=1a1625" alt="Repo 3" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anhkhoi130605/REPO_4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_4&theme=radical&title_color=00ffcc&bg_color=152028" alt="Repo 4" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/anhkhoi130605/REPO_5">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_5&theme=radical&title_color=ff79c6&bg_color=1b192e" alt="Repo 5" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anhkhoi130605/REPO_6">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_6&theme=radical&title_color=50fa7b&bg_color=142217" alt="Repo 6" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ### Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kpham6488@gmail.com)
@@ -68,5 +115,5 @@ My priority is cultivating solid technical foundations, clean code practices, an
 ---
 
 <div align="center">
-<sub>Keep learning. Keep building.</sub>
+<sub>Yoroshiku onegashimasu</sub>
 </div>
