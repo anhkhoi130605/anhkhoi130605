@@ -65,38 +65,38 @@ My priority is cultivating solid technical foundations, clean code practices, an
 
 <table border="0">
   <tr>
-    <td>
+    <td width="400" valign="top">
       <a href="https://github.com/nghuynh5079/AEMS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nghuynh5079&repo=AEMS&theme=radical&title_color=ff2a85&bg_color=181528" alt="AEMS" />
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=nghuynh5079&repo=AEMS&theme=radical&title_color=ff2a85&bg_color=181528&description_lines_count=2" alt="AEMS" />
       </a>
     </td>
-    <td>
+    <td width="400" valign="top">
       <a href="https://github.com/anhkhoi130605/HomeCare">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=HomeCare&theme=radical&title_color=a8ff00&bg_color=121f14" alt="HomeCare" />
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=HomeCare&theme=radical&title_color=a8ff00&bg_color=121f14&description_lines_count=2&desc=Comprehensive+homecare+and+healthcare+service+management+system." alt="HomeCare" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="400" valign="top">
       <a href="https://github.com/anhkhoi130605/Faster-R-CNN_VOC-Dataset">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=Faster-R-CNN_VOC-Dataset&theme=radical&title_color=ffaa00&bg_color=1a1625" alt="Faster-R-CNN_VOC-Dataset" />
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=Faster-R-CNN_VOC-Dataset&theme=radical&title_color=ffaa00&bg_color=1a1625&description_lines_count=2&desc=Faster+R-CNN+object+detection+implementation+on+Pascal+VOC+dataset." alt="Faster-R-CNN_VOC-Dataset" />
       </a>
     </td>
-    <td>
+    <td width="400" valign="top">
       <a href="https://github.com/anhkhoi130605/ChatBot-ReAct-Agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=ChatBot-ReAct-Agent&theme=radical&title_color=00ffcc&bg_color=152028" alt="ChatBot-ReAct-Agent" />
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=ChatBot-ReAct-Agent&theme=radical&title_color=00ffcc&bg_color=152028&description_lines_count=2&desc=Conversational+AI+chatbot+powered+by+ReAct+agent+architecture." alt="ChatBot-ReAct-Agent" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="400" valign="top">
       <a href="https://github.com/anhkhoi130605/ReAct-Agent-Tool-Calling-Function-Calling">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=ReAct-Agent-Tool-Calling-Function-Calling&theme=radical&title_color=ff79c6&bg_color=1b192e&v=1" alt="ReAct-Agent-Tool-Calling-Function-Calling" />
-       </a>
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=ReAct-Agent-Tool-Calling-Function-Calling&theme=radical&title_color=ff79c6&bg_color=1b192e&description_lines_count=2&desc=ReAct+agent+with+tool+calling+and+dynamic+function+execution." alt="ReAct-Agent-Tool-Calling-Function-Calling" />
+      </a>
     </td>
-    <td>
+    <td width="400" valign="top">
       <a href="https://github.com/anhkhoi130605/Deep-Learning-QuickDraw-By-CNN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=Deep-Learning-QuickDraw-By-CNN&theme=radical&title_color=50fa7b&bg_color=142217" alt="Deep-Learning-QuickDraw-By-CNN" />
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=Deep-Learning-QuickDraw-By-CNN&theme=radical&title_color=50fa7b&bg_color=142217&description_lines_count=2&desc=Convolutional+neural+network+for+sketch+recognition+on+QuickDraw." alt="Deep-Learning-QuickDraw-By-CNN" />
       </a>
     </td>
   </tr>
