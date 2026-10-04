@@ -1,20 +1,18 @@
 <div align="center">
 
-<!-- Sci-Fi / Deep Space Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35&height=200&section=header&text=Pham%20Hoang%20Anh%20Khoi&fontSize=38&fontAlignY=38&animation=twinkling&desc=.NET%20Backend%20Developer%20%7C%20AI%20Engineering&descAlignY=60&descSize=16&fontColor=00F2FF" width="100%"/>
+<!-- Banner vũ trụ / ngoài hành tinh: sao nhấp nháy, nền đen không gian hòa cùng sóng plasma neon -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,70:ec38bc,100:00f2ff&height=260&section=header&text=Pham%20Hoang%20Anh%20Khoi&fontSize=40&fontAlignY=36&animation=twinkling&desc=.NET%20Backend%20Developer%20%E2%80%A2%20AI%20Engineering&descAlignY=58&descSize=18&fontColor=ffffff" width="100%"/>
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 8px;" />
+<br/>
 
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Transmitting+from+Deep+Space...;Pham+Hoang+Anh+Khoi;.NET+Backend+Developer;AI+%26+Software+Engineering&size=24&duration=3000&pause=600&color=00F2FF&center=true&vCenter=true&multiline=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pham+Hoang+Anh+Khoi;.NET+Backend+Developer;AI+%26+Software+Engineering;Transmitting+from+Deep+Space...&size=24&duration=3000&pause=600&color=00F2FF&center=true&vCenter=true&multiline=false)](https://git.io/typing-svg)
 
 *Software Engineering And AI Engineering Student · FPT University Da Nang · VinUniversity · Former Intern at FPT Software*
 </div>
 
 ---
 
-### 🛸 About Me
+### About Me
 
 I am a passionate software engineering and AI engineering student with a strong focus on building scalable web backends, system architectures, and practical software solutions.  
 My priority is cultivating solid technical foundations, clean code practices, and applying real-world engineering standards to production systems.
@@ -25,7 +23,7 @@ My priority is cultivating solid technical foundations, clean code practices, an
 
 ---
 
-### 🛰️ Tech Stack
+### Tech Stack
 
 <div align="left">
 
@@ -66,7 +64,7 @@ My priority is cultivating solid technical foundations, clean code practices, an
 
 ---
 
-### 👾 Projects
+### Projects
 
 <div align="center">
 
@@ -113,7 +111,7 @@ My priority is cultivating solid technical foundations, clean code practices, an
 
 ---
 
-### 🌌 Contact
+### Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kpham6488@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kh%C3%B4i-ph%E1%BA%A1m-b163252a6/)
