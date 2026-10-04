@@ -91,8 +91,8 @@ My priority is cultivating solid technical foundations, clean code practices, an
   <tr>
     <td>
       <a href="https://github.com/anhkhoi130605/ReAct-Agent-Tool-Calling-Function-Calling">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=ReAct-Agent-Tool-Calling-Function-Calling&theme=radical&title_color=ff79c6&bg_color=1b192e" alt="ReAct-Agent-Tool-Calling-Function-Calling" />
-      </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=ReAct-Agent-Tool-Calling-Function-Calling&theme=radical&title_color=ff79c6&bg_color=1b192e&v=1" alt="ReAct-Agent-Tool-Calling-Function-Calling" />
+       </a>
     </td>
     <td>
       <a href="https://github.com/anhkhoi130605/Deep-Learning-QuickDraw-By-CNN">
