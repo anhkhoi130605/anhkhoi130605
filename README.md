@@ -66,7 +66,7 @@ My priority is cultivating solid technical foundations, clean code practices, an
 <table border="0">
   <tr>
     <td>
-      <a href="https://github.com/anhkhoi130605/REPO_1">
+      <a href="[https://github.com/anhkhoi130605/REPO_1](https://github.com/nghuynh5079/AEMS)">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhoi130605&repo=REPO_1&theme=radical&title_color=ff2a85&bg_color=181528" alt="Repo 1" />
       </a>
     </td>
