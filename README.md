@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pham+Hoang+Anh+Khoi;.NET+Backend+Developer;AI+%26+Software+Engineering (FullStack-AI Engineering);Transmitting+from+Deep+Space...&size=24&duration=3000&pause=600&color=00F2FF&center=true&vCenter=true&multiline=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pham+Hoang+Anh+Khoi;.NET+Backend+Developer;AI+%26+Software+Engineering%5Cn(FullStack+-+AI+Engineering);Transmitting+from+Deep+Space...&size=22&height=70&duration=3500&pause=600&color=00F2FF&center=true&vCenter=true&multiline=true)](https://git.io/typing-svg)
 
 *Software Engineering And AI Engineering Student · FPT University Da Nang · VinUniversity · Former Intern at FPT Software*
 </div>
